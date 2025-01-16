@@ -1,0 +1,3 @@
+C:\Users\86138\source\repos\咖啡厅管理系统\Debug\智能咖啡厅管理系统.exe
+C:\Users\86138\source\repos\Coffee System\Debug\智能咖啡厅管理系统.exe
+C:\Users\86138\source\repos\Coffee_System\Debug\智能咖啡厅管理系统.exe
